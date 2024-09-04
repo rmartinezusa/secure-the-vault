@@ -1,0 +1,9 @@
+
+/* this class will stile the mainContent class */
+.mainContent {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #000;
+    padding: 10px;
+    text-align: center;
+}
